@@ -1,0 +1,7 @@
+{
+    ".html": "text/html",
+    ".css": "text/css",
+    ".js": "text/js",
+    ".zip": "application/x-zip-compressed",
+    ".rar": "application/octet-stream"
+}
